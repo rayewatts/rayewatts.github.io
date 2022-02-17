@@ -2,7 +2,7 @@
 layout: page
 title: Announcement
 permalink: /announcement/
-poster_img: /assets/images/home/poster-materials.svg
+poster_img: /assets/images/blank-square.jpg
 poster_alt: TODO! A description of the poster image
 ---
 

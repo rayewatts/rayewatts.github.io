@@ -238,7 +238,7 @@ nav#home-nav .home-nav-poster {
     grid-column: span 2 / span 1;
     grid-row: 1;
     display: grid;
-    grid-template-rows: [image] 24rem 1.5rem [button] auto [end];
+    grid-template-rows: [image] 17rem 1.5rem [button] auto [end];
     grid-template-columns: 1fr [button] auto 1fr [end];
 }
 nav#home-nav .home-nav-poster .image-link {
