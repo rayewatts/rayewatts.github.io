@@ -1,13 +1,16 @@
 <header>
-  <div id="logo-box">
-    <img id="logo" src="/assets/images/psst-logo-red.png" alt="PSST Logo"/>
-  </div>
-  <div id="title-box">
-    <h1>
-      The <br/>
-      <span id="big-title-text">PSST Challenge</span> <br/>
-      Post-Stroke Speech Transcription
-    </h1>
+  <div id="banner">
+    <div id="logo-box">
+      <a href="{{site.url | relative_url}}">
+        <img id="logo" src="/assets/images/psst-logo-red.png" alt="PSST Logo"/>
+      </a>
+    </div>
+    <div id="title-box">
+      <h1>
+        <a href="{{site.url | relative_url}}" id="title-box-the">The</a>
+        <a href="{{site.url | relative_url}}" id="title-box-title">PSST Challenge</a>
+        <a href="{{site.url | relative_url}}" id="title-box-sub-title">Post-Stroke Speech Transcription</a>
+      </h1>
+    </div>
   </div>
 </header>
-
