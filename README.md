@@ -22,8 +22,7 @@ bundle exec jekyll serve
 ```
 
 # Adding a blog post
-Take a look in [./docs/_posts](./docs/_posts). You can make a new file using another post as a template, following the 
-filename format as well.
+The template doesn't currently list any blog posts, but it wouldn't take much. To make a new blog post, take a look in [./docs/_posts](./docs/_posts). You can make a new file using another post as a template, following the filename format as well.
 
 # Updating static pages
 The content for static pages are in [./docs](./docs) as `*.md` files. 
