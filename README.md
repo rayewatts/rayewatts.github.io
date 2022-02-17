@@ -26,4 +26,4 @@ Take a look in [./docs/_posts](./docs/_posts). You can make a new file using ano
 filename format as well.
 
 # Updating static pages
-The content for static pages are in [./docs](./docs) as `*.markdown` files. 
+The content for static pages are in [./docs](./docs) as `*.md` files. 
