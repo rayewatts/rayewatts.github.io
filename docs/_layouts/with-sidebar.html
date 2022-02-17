@@ -7,7 +7,7 @@
     {%- include header.html -%}
 
     <nav class="sidebar">
-      <a href="{{site.url | relative_url}}">Home</a>
+      <a href="/">Home</a>
       {%- for p in site.pages -%}
         {%- if p.title and p.url != "/" -%}
             {%- if p.url == page.url -%}
